@@ -1,0 +1,5 @@
+Title=Opération Thomas
+Image=2
+Desc=Bonjour PLAYERNAME,|le train contenant le président à été reconnu et c'est celui que vous poursuivez depuis la gare.|Le président est à son bord et les terroristes aussi.|Occupez-vous d'eux.
+Objectifs=- Tuez les terroristes |- Sauver le président
+Next=Level2

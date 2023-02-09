@@ -1,0 +1,5 @@
+Title=Entrainement
+Image=0
+Desc=Bonjour PLAYERNAME,| vous avez décidé de nous rejoindre après de longues années de retraite.|Il vous faut cependant vous entraîner pour débarrasser la rouille de votre avion, le problème, c'est que des terroristes ont pris le contrôle du complexe d’entraînement du GIGN.|Entrez dans le complexe, et entraînez-vous tout en tuant les terroristes.
+Objectifs=- Entrez dans le complexe |- Tuez les terroristes |- Entraînez-vous
+Next=Level0

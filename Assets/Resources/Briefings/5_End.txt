@@ -1,0 +1,5 @@
+Title=Fuite
+Image=5
+Desc=L'armurerie que j'ai trouvé contenait de nombreuses armes ainsi qu'un plan de la base.|Je vais pouvoir sortir d'ici.
+Objectifs=- Sortir de la base V
+Next=Briefing|6_Start

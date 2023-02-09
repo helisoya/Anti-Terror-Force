@@ -1,0 +1,5 @@
+Title=Opération Vizir
+Image=4
+Desc=J'ai été capturé par les terroristes...|Le pire, c'est que je pense que le QG me croit mort.|Je suis seul au monde.
+Objectifs=- Trouvez la base V |- Sauver le président X
+Next=Briefing|5_Start

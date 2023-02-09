@@ -1,0 +1,5 @@
+Title=Fuite
+Image=5
+Desc=Je dois trouver un moyen de m'échapper de la base des terroristes.|Qui sait ce qu'il vont me faire, ainsi qu'au président...
+Objectifs=- Sortir de la base
+Next=Level5

@@ -1,0 +1,5 @@
+Title=Opération Thomas
+Image=2
+Desc=Nos excuses agent,|nos équipes de renseignements se sont trompés de train.|Le président était dans le tunnel adjacent au votre.|Nous vous recontacterons une fois le train retrouvé.
+Objectifs=- Tuez les terroristes V |- Sauver le président X
+Next=Briefing|3_Start

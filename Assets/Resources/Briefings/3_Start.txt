@@ -1,0 +1,5 @@
+Title=Opération Promenade
+Image=3
+Desc=Bonjour PLAYERNAME,|nous avons réussi à localiser le train contenant le président.|Il se trouve dans une forêt non loin de Poil.|Nous allons vous parachuter dans la forêt, occupez-vous de trouver le président.
+Objectifs=- Tuez les terroristes |- Sauver le président
+Next=Level3

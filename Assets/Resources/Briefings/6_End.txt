@@ -1,0 +1,5 @@
+Title=Contre-Attaque
+Image=6
+Desc=Bravo, PLAYERNAME !|Vous avez réussi à sauver le président et à tuer le chef des terroristes.|Le président va vous récompenser personnellement avec une tablette de chocolat.
+Objectifs=- Sauver le Président V |- Tuer le chef V
+Next=MainMenu

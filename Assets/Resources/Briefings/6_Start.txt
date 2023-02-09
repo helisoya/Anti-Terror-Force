@@ -1,0 +1,5 @@
+Title=Contre-Attaque
+Image=6
+Desc=Je suis maintenant équipé pour attaquer les terroristes.|Je doit trouver le président et contacter le QG.
+Objectifs=- Sauver le Président |- Tuer le chef
+Next=Level6

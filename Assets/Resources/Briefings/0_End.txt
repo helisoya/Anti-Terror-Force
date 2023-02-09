@@ -1,0 +1,5 @@
+Title=Entrainement
+Image=0
+Desc=Bravo !|Vous êtes désormais officiellement de retour dans les forces du GIGN.|Vous aurez bientôt un nouvel assignement.
+Objectifs=- Entrez dans le complexe V |- Tuez les terroristes V |- Entraînez-vous V
+Next=Briefing|1_Start

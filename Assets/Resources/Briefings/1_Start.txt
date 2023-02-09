@@ -1,0 +1,5 @@
+Title=Opération Président
+Image=1
+Desc=Bonjour PLAYERNAME.|L'heure est grave, les terroristes ont kidnappé le président français et il est retenu en otage dans une station ferroviaire.|Il est de votre devoir de le sauver des griffes de ces monstres.
+Objectifs=- Entrez dans la station |- Sauver le président
+Next=Level1

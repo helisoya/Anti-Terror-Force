@@ -1,0 +1,5 @@
+Title=Opération Vizir
+Image=4
+Desc=Bonjour PLAYERNAME,|nous avons réussi à localiser hélicoptère mais avons perdu sa trace dans un désert en Algérie.|Vous devez vous y rendre afin de trouver le président.|Nous pensons qu'il est retenu dans une base secrète.
+Objectifs=- Trouvez la base |- Sauver le président
+Next=Level4

@@ -1,0 +1,5 @@
+Title=Opération Président
+Image=1
+Desc=Grace à vos efforts, les terroristes ont pu s'enfuir...|Cet échec sera retenu sur votre fiche de paye.|Nous devons maintenant replanifier la mission.
+Objectifs=- Entrez dans la station V |- Sauver le président X
+Next=Briefing|2_Start

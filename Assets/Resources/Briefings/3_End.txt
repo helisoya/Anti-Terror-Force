@@ -1,0 +1,5 @@
+Title=Opération Promenade
+Image=3
+Desc=Une fois de plus, les terroristes s'échappent...|Nous allons cependant pouvoir suivre cet hélicopter avec nos radars du GIGN.|Nous vous tenons au courant.
+Objectifs=- Tuez les terroristes V |- Sauver le président X
+Next=Briefing|4_Start
